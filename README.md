@@ -86,5 +86,5 @@ to ssh-to-github with screen-shot
 ---
 
 ### NOTE:  
- - There are some **typo** on some screen-shots and I apologize for those.  
- - For troubleshot see [this link](https://help.github.com/articles/connecting-to-github-with-ssh/).  
+ - There are some **typo(s)** on some screen-shots and I apologize for those.  
+ - For troubleshooting see [this link](https://help.github.com/articles/connecting-to-github-with-ssh/).  
