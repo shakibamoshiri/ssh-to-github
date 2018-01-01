@@ -72,13 +72,13 @@ to ssh-to-github with screen-shot
 
 ### 09:    
  17. Initialize a new repository and add your remote repository address.    
- 18. `git add` and `git commit` your new files  
  
 ![ssh-to-github.9](https://github.com/k-five/ssh-to-github/blob/master/shot/ssh-to-github.9.png)  
 
 ---  
 
 ### 10:  
+ 18. After `git add` and `git commit`
  19. Lastly try: `git push -u origin master`. It should **NOT** ask you for your password.  
 
 ![ssh-to-github.10](https://github.com/k-five/ssh-to-github/blob/master/shot/ssh-to-github.10.png)  
